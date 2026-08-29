@@ -12,3 +12,4 @@
 - [ ] Add sensible error handling.
 - [ ] Run the complete test suite before submission.
 - [ ] Disclose AI assistance, if used.
+Get-ChildItem "C:\Program Files\Eclipse Adoptium"
